@@ -1,2 +1,2 @@
-# hello-world
-learning
+I am junior python developer
+it is my learning
